@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\igor1\Desktop\Проганье\Project1\Project1\Source.cpp(77,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\igor1\Desktop\Проганье\Project1\Project1\Source.cpp(78,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\igor1\Desktop\Проганье\Project1\Project1\Source.cpp(81,69): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\igor1\Desktop\Проганье\Project1\Project1\Source.cpp(81,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Project1.vcxproj -> C:\Users\igor1\Desktop\Проганье\Project1\x64\Debug\Project1.exe
